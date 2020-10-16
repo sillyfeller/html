@@ -1,15 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>
+<script>
+  function myFunction() {
+  document.getElementById("monkey").innerhtml = "ooh ooh ah ah";}
+</script>
+<title>
     Monkey
   </title>
+ </head> 
   
   <h1>Oooh ooh ah ah monkeying around</h1>
   <hr>
   
-  <p style="background-color:lawngreen"> funky monkey</p>
-
+  <p id="monkey"  style="background-color:lawngreen">funky monkey</p>
+  <button-type="button" onclick="myFunction()">Monkey mode button</button>
 
 
 
