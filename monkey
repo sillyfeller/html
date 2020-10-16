@@ -8,7 +8,7 @@
   <h1>Oooh ooh ah ah monkeying around</h1>
   <hr>
   
-  <p style="background-color:lawngreen"> funky monkey</p>
+  <p style="background-color:aqua"> monkey</p>
 
 
 
